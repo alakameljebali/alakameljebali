@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from Tunisia</h3>
 
 - 🔭 I’m currently working on [Podcast Ala Jebali](https://open.spotify.com/show/29XmYgV5aDcwd8MAjQTFTB)
 
